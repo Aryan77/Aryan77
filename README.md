@@ -1,4 +1,4 @@
-[Blog](https://www.aryanyadav.dev) | [LinkedIn](https://www.linkedin.com/in/aryanyadav4/) | [Resume](https://drive.google.com/file/d/1c2UUGPv3Eu29QMpbA556sf-0MBpkYjs1/view?usp=sharing)
+[Blog](https://www.aryanyadav.dev) | [LinkedIn](https://www.linkedin.com/in/aryanyadav4/) | [Resume](https://storage.googleapis.com/resume-aryan/resume_aryan_yadav.pdf)
 
 Hi! I'm Aryan, a junior CS student at Cornell University.
 
